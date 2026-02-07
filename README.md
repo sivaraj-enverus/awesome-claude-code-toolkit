@@ -10,6 +10,46 @@
 
 ---
 
+## 🚀 New to Claude Code Toolkit?
+
+**Start here:**
+
+📖 **[Getting Started Guide](GETTING_STARTED.md)** - Understand what this toolkit is and why you need it
+
+🔧 **[Setup Guide](SETUP.md)** - Detailed installation and configuration instructions  
+
+🎓 **[Usage Guide](USAGE_GUIDE.md)** - Learn how to use every component with practical examples
+
+🏗️ **[Concepts & Architecture](CONCEPTS.md)** - Deep dive into how the toolkit works
+
+---
+
+## What is This?
+
+The Claude Code Toolkit is a curated collection of productivity tools that supercharge your development workflow with Claude Code. Think of it as a comprehensive "standard library" for AI-assisted development.
+
+### What You Get
+
+- **120 Plugins**: Domain-specific capabilities from API design to security auditing
+- **135 Agents**: Specialized AI experts (backend, frontend, DevOps, security, etc.)
+- **42 Commands**: Slash commands for common workflows (`/commit`, `/tdd`, `/debug`)
+- **35 Skills**: Best practices and patterns for technologies and domains
+- **19 Hooks**: Automation scripts that run at lifecycle events
+- **15 Rules**: Coding standards that Claude follows automatically
+- **7 Templates**: Ready-to-use CLAUDE.md files for different project types
+- **6 MCP Configs**: Configurations for external tool integration
+- **5 Contexts**: Different working modes (dev, review, debug, deploy)
+
+### Why Use This?
+
+- ⚡ **Faster Development**: Automate repetitive tasks with commands and plugins
+- 🎯 **Better Quality**: Enforce standards automatically with rules and hooks
+- 🧠 **Expert Guidance**: Get specialized help from domain-expert agents
+- 📚 **Learn Best Practices**: Access curated skills and patterns
+- 🔧 **Consistent Setup**: Use templates for quick project initialization
+
+---
+
 ## Quick Install
 
 **Plugin marketplace** (recommended):
@@ -34,18 +74,41 @@ curl -fsSL https://raw.githubusercontent.com/rohitg00/awesome-claude-code-toolki
 
 ## Table of Contents
 
-- [Plugins](#plugins) (120)
-- [Agents](#agents) (135)
-- [Skills](#skills) (35)
-- [Commands](#commands) (42)
-- [Hooks](#hooks) (19 scripts)
-- [Rules](#rules) (15)
-- [Templates](#templates) (7)
-- [MCP Configs](#mcp-configs) (6)
-- [Contexts](#contexts) (5)
-- [Examples](#examples) (3)
-- [Setup](#setup)
-- [Contributing](#contributing)
+- 📚 **[Documentation](#documentation)**
+- 🔌 **[Plugins](#plugins)** (120)
+- 🤖 **[Agents](#agents)** (135)
+- 🎯 **[Skills](#skills)** (35)
+- ⚡ **[Commands](#commands)** (42)
+- 🪝 **[Hooks](#hooks)** (19 scripts)
+- 📏 **[Rules](#rules)** (15)
+- 📄 **[Templates](#templates)** (7)
+- 🔗 **[MCP Configs](#mcp-configs)** (6)
+- 🎭 **[Contexts](#contexts)** (5)
+- 💡 **[Examples](#examples)** (3)
+- 🛠️ **[Setup](#setup)**
+- 🤝 **[Contributing](#contributing)**
+
+---
+
+## Documentation
+
+Comprehensive guides to help you get the most out of the toolkit:
+
+| Guide | Description | When to Read |
+|-------|-------------|--------------|
+| **[Quick Reference](QUICK_REFERENCE.md)** ⚡ | Common commands, shortcuts, and quick tips | When you need a quick lookup |
+| **[Getting Started](GETTING_STARTED.md)** | Introduction, key concepts, quick start | Start here if you're new |
+| **[Setup Guide](SETUP.md)** | Installation, configuration, troubleshooting | When installing or configuring |
+| **[Usage Guide](USAGE_GUIDE.md)** | How to use each component with examples | When learning to use features |
+| **[Concepts](CONCEPTS.md)** | Architecture, design patterns, advanced topics | When you want deeper understanding |
+
+### Quick Examples
+
+**For a typical workflow**, see [examples/session-workflow.md](examples/session-workflow.md)
+
+**For project setup**, see [examples/project-setup.md](examples/project-setup.md)
+
+**For multi-agent coordination**, see [examples/multi-agent-pipeline.md](examples/multi-agent-pipeline.md)
 
 ---
 
