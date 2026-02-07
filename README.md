@@ -96,6 +96,7 @@ Comprehensive guides to help you get the most out of the toolkit:
 
 | Guide | Description | When to Read |
 |-------|-------------|--------------|
+| **[Quick Reference](QUICK_REFERENCE.md)** ⚡ | Common commands, shortcuts, and quick tips | When you need a quick lookup |
 | **[Getting Started](GETTING_STARTED.md)** | Introduction, key concepts, quick start | Start here if you're new |
 | **[Setup Guide](SETUP.md)** | Installation, configuration, troubleshooting | When installing or configuring |
 | **[Usage Guide](USAGE_GUIDE.md)** | How to use each component with examples | When learning to use features |
